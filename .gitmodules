@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "CrossCarry"]
 	path = CrossCarry
-	url = https://github.com/cran/CrossCarry
+	url = https://github.com/cruzalirio/crosscarry
